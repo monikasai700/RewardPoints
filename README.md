@@ -1,6 +1,6 @@
 # README
 
-This Project calculates the reward points or each customer of Fooda based on the schedule.
+This Project calculates the reward points of each customer of Fooda based on the schedule.
 
 Things you may want to cover:
 
